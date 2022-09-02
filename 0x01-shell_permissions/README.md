@@ -1,1 +1,1 @@
-learning to grant permissions
+Granting shell permissions
